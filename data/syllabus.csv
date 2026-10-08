@@ -1,0 +1,7 @@
+Unit_Code,Unit_Title,Mapped_Subjects,Key_Topics,Status,Progress_Pct,Sessions_Held
+Unit 1,Foundations of Python & Data Handling,"Mathematics, Computer Science","Variables, DataFrames, Series, CSV/Excel parsing with pandas, schema validation",Completed,100,4
+Unit 2,Statistical & Result Computation Engine,"Mathematics, Computer Science","Mean, Median, Standard Deviation, Percentile Ranks, Weighted Aggregate, Pass/Fail boundaries",Completed,100,6
+Unit 3,Data Visualization & Dashboard Analytics,"Physics, Computer Science","Plotly histograms, Grade distribution pie/donut charts, Radar student-vs-class charts, Trendline analytics",Completed,100,8
+Unit 4,Application Architecture & Session Security,Computer Science,"Streamlit multi-page routing, Session state authentication, Role permissions, Form validation",Completed,100,6
+Unit 5,Automated Document Synthesis & Export,"English, Computer Science","ReportLab dynamic PDF report cards generation, Multi-sheet Excel workbook export, CSV formatting",Completed,100,4
+Unit 6,Academic Intervention & At-Risk Detection,All Subjects,"Heuristic identification of students under 40%, Weak-subject categorization, Personalized remedial action remarks",Completed,100,4
